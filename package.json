@@ -1,0 +1,20 @@
+{
+  "name": "scratch-app",
+  "version": "1.0.0",
+  "description": "Scratch 3.0 for OROCA Edubot",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "scratch",
+    "oroca",
+    "edubot",
+    "block-coding"
+  ],
+  "author": "Byeong-Kyu Ahn",
+  "license": "BSD-2-Clause",
+  "devDependencies": {
+    "electron": "^4.0.8"
+  }
+}
